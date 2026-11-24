@@ -4,7 +4,11 @@ VR new xperience + tutorial
 Author: Fernando Arribas del Val
 Date: 22/11/2026
 
+------------------------------------------------------------------------------------------------------------------
+
 FICHA DISEÑO
+
+------------------------------------------------------------------------------------------------------------------
 
 BLOCK3D
 
@@ -16,9 +20,15 @@ La duración estimada de la partida está entre 2 y 3 minutos.
 
 El tutorial es muy sencillo e intuitivo. En la escena aparecen una pieza cuadrada de color amarillo gigante y otra un poco más pequeña con la misma forma y color. El jugador sólo puede coger la pequeña. Hay una mesa virtual en medio de la sala. El jugador deberá poner dicha pieza en un lugar determinado de la mesa virtual. Una vez colocada en el lugar correcto, aparecerán el resto de las piezas que permiten realizar el puzle. Tras colocarlas todas (no hay que seguir ningún orden), se lanza un sistema de partículas para festejar que el juego se ha completado.
 
+------------------------------------------------------------------------------------------------------------------
+
 CONTROLES (VR - Teclado/Ratón)
 
-TECLADO:
+------------------------------------------------------------------------------------------------------------------
+
+TECLADO
+
+------------------------------------------------------------------------------------------------------------------
 
 U (mantenido) - Coger
 
@@ -50,7 +60,11 @@ J - Giro derecha (sin smooth)
 
 M - Menú
 
+------------------------------------------------------------------------------------------------------------------
+
 RATÓN
+
+------------------------------------------------------------------------------------------------------------------
 
 Botón derecho (mantenido) - Girar (con smooth)
 
@@ -58,10 +72,16 @@ Botón izquierda - Disparar (arma)
 
 Botón central (mantenido) - Ascender/descender cámara
 
+------------------------------------------------------------------------------------------------------------------
+
 MODELOS
+
+------------------------------------------------------------------------------------------------------------------
 
 Colorful Block Puzzle Shapes Pack - 3dShowdown - Licencia estándar
 
 Arrow - PropShop - Creative Commons (CC-BY)
 
 Rubber Duck - Full Barrel Productions - Creative Commons (CC-BY)
+
+------------------------------------------------------------------------------------------------------------------
